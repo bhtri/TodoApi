@@ -24,5 +24,6 @@
     <Folder Include="EF\" />
     <Folder Include="Entities\" />
     <Folder Include="Enums\" />
+    <Folder Include="Configurations\" />
   </ItemGroup>
 </Project>
